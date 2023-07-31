@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/closed-store/static/css/main.6009d04c.css",
+    "main.js": "/closed-store/static/js/main.e9bc4e77.js",
+    "index.html": "/closed-store/index.html",
+    "main.6009d04c.css.map": "/closed-store/static/css/main.6009d04c.css.map",
+    "main.e9bc4e77.js.map": "/closed-store/static/js/main.e9bc4e77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6009d04c.css",
+    "static/js/main.e9bc4e77.js"
+  ]
+}
